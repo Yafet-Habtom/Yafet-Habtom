@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yafet-Habtom
+- 👋 Hi, I’m Yafet Habtom
 - 👀 I’m interested in software engineering to be specific web development 
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
-- 💞️ I’m looking to collaborate on after school time 
+- 💞️ I’m looking to collaborate  after school time 
 - 📫 How to reach me yafeth422@gmail.com
 - 😄 Pronouns: boy
   
