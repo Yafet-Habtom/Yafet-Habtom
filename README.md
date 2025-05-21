@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
 - 💞️ I’m looking to collaborate  after school time 
 - 📫 How to reach me yafeth422@gmail.com
-- 😄 Pronouns: boy
   
 
 <!---
